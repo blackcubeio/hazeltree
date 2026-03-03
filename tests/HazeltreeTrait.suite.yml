@@ -1,0 +1,4 @@
+actor: HazeltreeTraitTester
+modules:
+    enabled:
+        - Asserts

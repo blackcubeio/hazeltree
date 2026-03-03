@@ -1,0 +1,4 @@
+actor: TreeHelperTester
+modules:
+    enabled:
+        - Asserts

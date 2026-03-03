@@ -1,0 +1,4 @@
+actor: MatrixTester
+modules:
+    enabled:
+        - Asserts
